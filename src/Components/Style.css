@@ -1,0 +1,60 @@
+header{
+    width:980px;
+    height: 45px;
+    background-color: gray;
+
+    color: white;
+    padding: 10px 0px 0px 10px;
+}
+
+.slider{
+    width: 980px;
+    height: 250px;
+    background-color: orange;
+}
+
+.fPara{
+    width:490px ;
+    height: 250px;
+    /* background-color: cyan; */
+
+    float: left;
+    padding: 10px;
+}
+.sPara{
+    width: 490px;
+    height: 250px;
+    /* background-color: orangered; */
+
+    float: left;
+    padding: 10px;
+}
+
+.boxOne{
+    width: 322px;
+    height: 250px;
+    background-color: gray;
+
+    float: left;
+}
+.boxTwo{
+    width: 322px;
+    height: 250px;
+    background-color: orchid;
+
+    float: left;
+
+    margin: 0px 10px 10px 10px;
+}
+.boxThree{
+    width: 322px;
+    height: 250px;
+    background-color: blueviolet;
+
+    float: left;
+}
+.footer{
+    width: 980px;
+    height: 150px;
+    background-color: red;
+}
